@@ -1,4 +1,4 @@
-## This project is a clone project of [brandcolors.net](https://brandcolors.net) that I created to learn about React and improve myself.
+## [brandcolors.net](https://brandcolors.net) clone.
 
 ### [Demo](https://brandcolorsclone.vercel.app)
 
