@@ -1,3 +1,7 @@
+# This project is the clone project of the brandcolors.net site that I created to learn the React structure and improve myself.
+
+## [Demo](https://brandcolorsclone.vercel.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
